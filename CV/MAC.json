@@ -47,6 +47,11 @@
   "knowledge": {
     "languages": [
       {
+        "name": "AR",
+        "fullName": "Árabe",
+        "level": "Limited working proficiency"
+      },
+      {
         "name": "EN",
         "fullName": "Inglés",
         "level": "Native or bilingual proficiency"
