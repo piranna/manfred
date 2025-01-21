@@ -227,6 +227,7 @@
     },
     "preferences": {
       "preferredRoles": [
+        "Backend Developer",
         "Full-stack Developer",
         "Software Architect",
         "VP of Engineering"
