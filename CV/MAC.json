@@ -112,6 +112,12 @@
           "name": "Analytical thinking",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
       }
     ]
   },
