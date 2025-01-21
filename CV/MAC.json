@@ -77,7 +77,37 @@
       },
       {
         "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Fastapi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Fastify",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTMX",
           "type": "technology"
         }
       },
@@ -132,6 +162,12 @@
       {
         "skill": {
           "name": "Rust",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       },
