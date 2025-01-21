@@ -28,6 +28,10 @@
       {
         "type": "github",
         "URL": "https://github.com/piranna"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/586382/piranna"
       }
     ]
   },
@@ -100,6 +104,10 @@
         {
           "URL": "http://www.linkedin.com/in/piranna",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://stackoverflow.com/users/586382/piranna",
+          "type": "stackoverflow"
         },
         {
           "URL": "https://github.com/piranna",
