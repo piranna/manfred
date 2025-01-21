@@ -24,6 +24,10 @@
       {
         "type": "linkedin",
         "URL": "http://www.linkedin.com/in/piranna"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/piranna"
       }
     ]
   },
@@ -96,6 +100,10 @@
         {
           "URL": "http://www.linkedin.com/in/piranna",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/piranna",
+          "type": "github"
         }
       ]
     },
