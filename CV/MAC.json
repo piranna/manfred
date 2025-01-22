@@ -250,6 +250,10 @@
         {
           "name": "XMPP",
           "type": "technology"
+        },
+        {
+          "name": "webGL",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
