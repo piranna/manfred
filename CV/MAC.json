@@ -280,6 +280,10 @@
           "type": "technology"
         },
         {
+          "name": "OpenApi",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         },
