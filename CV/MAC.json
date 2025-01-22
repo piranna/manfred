@@ -256,6 +256,10 @@
           "type": "technology"
         },
         {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
           "name": "Electron",
           "type": "technology"
         },
