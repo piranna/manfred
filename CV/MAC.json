@@ -242,6 +242,10 @@
         {
           "name": "WebSockets",
           "type": "technology"
+        },
+        {
+          "name": "XMPP",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
