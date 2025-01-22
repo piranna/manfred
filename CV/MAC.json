@@ -226,6 +226,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AJAX",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer",
         "Developer Evangelist & Advocate",
