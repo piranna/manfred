@@ -236,6 +236,14 @@
           "type": "technology"
         },
         {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
           "name": "VanillaJS",
           "type": "technology"
         },
