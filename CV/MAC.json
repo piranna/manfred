@@ -318,6 +318,10 @@
           "type": "technology"
         },
         {
+          "name": "Dart",
+          "type": "technology"
+        },
+        {
           "name": "PHP",
           "type": "technology"
         },
