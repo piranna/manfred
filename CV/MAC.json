@@ -240,6 +240,10 @@
           "type": "technology"
         },
         {
+          "name": "Jest",
+          "type": "technology"
+        },
+        {
           "name": "NodeJS",
           "type": "technology"
         },
