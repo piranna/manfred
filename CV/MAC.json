@@ -298,6 +298,10 @@
       ],
       "discardedCompetences": [
         {
+          "name": "ASP",
+          "type": "technology"
+        },
+        {
           "name": "PHP",
           "type": "technology"
         },
