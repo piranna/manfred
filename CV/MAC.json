@@ -232,6 +232,10 @@
           "type": "technology"
         },
         {
+          "name": "Arduino",
+          "type": "technology"
+        },
+        {
           "name": "C++",
           "type": "technology"
         },
