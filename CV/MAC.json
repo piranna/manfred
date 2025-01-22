@@ -232,6 +232,10 @@
           "type": "technology"
         },
         {
+          "name": "Web3",
+          "type": "technology"
+        },
+        {
           "name": "WebRTC",
           "type": "technology"
         }
