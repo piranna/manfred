@@ -238,6 +238,10 @@
         {
           "name": "WebRTC",
           "type": "technology"
+        },
+        {
+          "name": "WebSockets",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
