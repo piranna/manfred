@@ -252,6 +252,10 @@
           "type": "technology"
         },
         {
+          "name": "Electron",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
           "type": "technology"
         },
