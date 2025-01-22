@@ -282,6 +282,10 @@
       ],
       "discardedCompetences": [
         {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
           "name": "Visual Studio",
           "type": "technology"
         },
