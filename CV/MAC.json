@@ -284,6 +284,10 @@
           "type": "technology"
         },
         {
+          "name": "OpenGL",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         },
