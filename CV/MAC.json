@@ -252,6 +252,10 @@
           "type": "technology"
         },
         {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
           "name": "Electron",
           "type": "technology"
         },
