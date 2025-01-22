@@ -232,6 +232,10 @@
           "type": "technology"
         },
         {
+          "name": "C++",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
           "type": "technology"
         },
