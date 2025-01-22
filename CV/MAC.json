@@ -296,6 +296,10 @@
           "type": "technology"
         },
         {
+          "name": "Raspberry",
+          "type": "technology"
+        },
+        {
           "name": "VanillaJS",
           "type": "technology"
         },
