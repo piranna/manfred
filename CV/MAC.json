@@ -236,6 +236,10 @@
           "type": "technology"
         },
         {
+          "name": "Assembly language",
+          "type": "technology"
+        },
+        {
           "name": "C++",
           "type": "technology"
         },
