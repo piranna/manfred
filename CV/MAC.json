@@ -262,6 +262,10 @@
       ],
       "discardedCompetences": [
         {
+          "name": "Visual Studio",
+          "type": "technology"
+        },
+        {
           "name": "Windows",
           "type": "technology"
         }
