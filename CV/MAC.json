@@ -300,6 +300,10 @@
           "type": "technology"
         },
         {
+          "name": "React Native",
+          "type": "technology"
+        },
+        {
           "name": "VanillaJS",
           "type": "technology"
         },
