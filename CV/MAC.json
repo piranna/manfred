@@ -264,6 +264,10 @@
           "type": "technology"
         },
         {
+          "name": "Google Maps",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
           "type": "technology"
         },
