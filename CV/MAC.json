@@ -256,6 +256,12 @@
           "type": "technology"
         }
       ],
+      "discardedCompetences": [
+        {
+          "name": "Windows",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer",
         "Developer Evangelist & Advocate",
