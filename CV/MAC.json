@@ -44,6 +44,46 @@
       }
     ]
   },
+  "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "Mafalda SFU",
+          "description": "Massively parallel vertical and horizontal scalable SFU (Stream Forwarding Unit) built on top of Mediasoup",
+          "URL": "https://mafalda.io/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-03-01",
+            "competences": [
+              {
+                "name": "JSON",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "WebRTC",
+                "type": "technology"
+              },
+              {
+                "name": "WebSockets",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
@@ -403,6 +443,11 @@
       {
         "name": "WebRTC",
         "type": "technology"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Mafalda SFU"
       }
     ]
   }
