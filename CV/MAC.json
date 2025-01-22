@@ -248,6 +248,10 @@
           "type": "technology"
         },
         {
+          "name": "Debian",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
           "type": "technology"
         },
