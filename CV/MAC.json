@@ -266,6 +266,12 @@
       ],
       "contactMails": [
         "jesus.leganes.combarro@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "630473957",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
