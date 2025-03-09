@@ -170,6 +170,12 @@
       },
       {
         "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MySQL",
           "type": "technology"
         }
